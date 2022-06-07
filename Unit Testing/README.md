@@ -11,7 +11,7 @@ An application that verifies the weather conditions in any city that you  check.
 - Print the results.
 
 # Example of the application
-()[]
+![example](https://github.com/ramiKammoun/Software-Testing-GL4/blob/main/Unit%20Testing/capture.png)
 
 # Scenarios of Testing
 1. Test if we're getting the weather right
