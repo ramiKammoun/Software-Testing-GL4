@@ -7,13 +7,13 @@ End to end testing *(E2E testing)* refers to a software testing method that invo
 Imagine yourself watching a movie and wanting to download a subtitle. Our test tests the automation of that subtitle downloading. 
 
 ## Results in a video
-![video]()
+https://github.com/ramiKammoun/Software-Testing-GL4/blob/main/e2e-tests/cypress/videos/scrap.spec.js.mp4
 
 ## Results in screenshots:
 
-![pic1]()
+![pic1](https://github.com/ramiKammoun/Software-Testing-GL4/blob/main/e2e-tests/pic1.png)
 
-![pic2]()
+![pic2](https://github.com/ramiKammoun/Software-Testing-GL4/blob/main/e2e-tests/pic2.png)
 
 ## How To Run The Test:
 ```d
