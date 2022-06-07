@@ -41,11 +41,11 @@ That's all you need for your server to start running up.
 $  pytest -v
 ```
 **Results in a screenshot**
-![pytest]()
+![pytest](https://github.com/ramiKammoun/Software-Testing-GL4/blob/main/Integration%20Testing/cap1.png)
 
 
 ```d
 $  pytest -vvv --cov=app tests/
 ```
 **Results in a screenshot**
-![cov]()
+![cov](https://github.com/ramiKammoun/Software-Testing-GL4/blob/main/Integration%20Testing/cap2.png)
